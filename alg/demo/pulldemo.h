@@ -3,8 +3,6 @@
  * notice can be found at the top of main/main.cpp. */
 
 // Defines a particle system for demonstrating pull handover functionality.
-//
-// Run with pulldemo() on the simulator command line.
 
 #ifndef AMOEBOTSIM_ALG_DEMO_PULLDEMO_H_
 #define AMOEBOTSIM_ALG_DEMO_PULLDEMO_H_
